@@ -1,3 +1,3 @@
 # iStudy
 
-iOS application of messeging interation between users. With live stream scrren show, import/export files, and screenshots
+iOS application of messeging interation between users. Intent with live stream screen show, import/export files, and screenshots
